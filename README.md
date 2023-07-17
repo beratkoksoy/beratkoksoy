@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Berat Koksoy</h1>
 <h3 align="center">Game Developer</h3>
 
-- 🔭 I’m currently working on **Unity**
 
 - 📫 How to reach me **berat.koksoy@gmail.com**
 
