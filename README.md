@@ -8,7 +8,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/beratkoksoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="beratkoksoy" height="30" width="40" /></a>
 <a href="https://instagram.com/beratkoksoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="beratkoksoy" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/berat köksoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="berat köksoy" height="30" width="40" /></a>
+<a href="[https://www.youtube.com/c/berat köksoy](https://www.youtube.com/@beratkoksoy7842)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="berat köksoy" height="30" width="40" /></a>
 <a href="https://discord.gg/beratcreed#0798" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="beratcreed#0798" height="30" width="40" /></a>
 </p>
 
